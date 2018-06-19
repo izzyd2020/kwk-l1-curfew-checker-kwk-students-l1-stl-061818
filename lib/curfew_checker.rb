@@ -11,7 +11,7 @@ def curfew_checker(time)
     puts "get home soon"
   end 
 end
-curfew_checker(10)
+curfew_checker(9)
 
 def complex_curfew_checker(time)
   # code goes here
