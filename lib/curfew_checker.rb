@@ -1,11 +1,11 @@
 def simple_curfew_checker(time)
-  if time>10 
+  if time>11
     puts "go back to house now"
   end 
 end
 simple_curfew_checker(11)
 def curfew_checker(time)
-  # code goes here
+  if 
 end
 
 def complex_curfew_checker(time)
