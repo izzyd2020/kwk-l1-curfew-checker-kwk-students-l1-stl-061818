@@ -3,7 +3,7 @@ def simple_curfew_checker(time)
     puts "go back to house"
   end 
 end
-
+simple_curfew_checker(11)
 def curfew_checker(time)
   # code goes here
 end
