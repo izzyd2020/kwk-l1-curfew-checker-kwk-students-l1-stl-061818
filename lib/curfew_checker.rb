@@ -14,7 +14,13 @@ end
 curfew_checker(9)
 
 def complex_curfew_checker(time)
-  # code goes here
+    if time>11
+    puts "your late, grounded"
+    elsif time == 10 
+    puts "get home soon"
+  else time<9 
+    puts "pleanty of time left don't be late"
+  end 
 end
 
 def deluxe_curfew_checker(time)
