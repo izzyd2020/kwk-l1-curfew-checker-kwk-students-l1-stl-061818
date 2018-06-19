@@ -1,6 +1,6 @@
 def simple_curfew_checker(time)
   if time>10 
-    puts "go back to house"
+    puts "go back to house now"
   end 
 end
 simple_curfew_checker(11)
