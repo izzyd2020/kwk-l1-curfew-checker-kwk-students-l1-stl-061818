@@ -7,7 +7,7 @@ simple_curfew_checker(11)
 def curfew_checker(time)
   if time>11
     puts "your late, grounded"
-    elsif time>10 
+    elsif time<10 
     puts "get home soon"
   
   end 
