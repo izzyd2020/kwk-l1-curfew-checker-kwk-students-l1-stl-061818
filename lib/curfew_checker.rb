@@ -7,9 +7,9 @@ simple_curfew_checker(11)
 def curfew_checker(time)
   if time>11
     puts "your late, grounded"
-    elsif time>10 
+    else time>10 
     puts "get home soon"
-    elsif time<9 
+    else time<9 
     puts " have fun be on time"
   end 
 end
