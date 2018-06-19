@@ -22,6 +22,7 @@ def complex_curfew_checker(time)
     puts "pleanty of time left don't be late"
   end 
 end
+complex_curfew_checker(9)
 
 def deluxe_curfew_checker(time)
   # code goes here
